@@ -1,0 +1,13 @@
+{
+  "name": "vanagon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generate.js",
+  "scripts": {
+    "images": "./thumbnails.sh images thumbs",
+    "build": "node build.js && open index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
